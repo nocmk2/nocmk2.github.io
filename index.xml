@@ -14,10 +14,10 @@
     
     <item>
       <title>Go语言radix tree实现、应用及源码分析</title>
-      <link>/posts/pandas/</link>
+      <link>/posts/go_redix_tree/</link>
       <pubDate>Tue, 20 Aug 2019 14:35:02 +0800</pubDate>
       
-      <guid>/posts/pandas/</guid>
+      <guid>/posts/go_redix_tree/</guid>
       <description> go语言radix tree实现  目标  func main(){ fmt.Println(&amp;quot;golang&amp;quot;) }  </description>
     </item>
     
