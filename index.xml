@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>nocmk2.github.io</copyright>
-    <lastBuildDate>Tue, 20 Aug 2019 14:35:02 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2019 15:27:15 +0800</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sachima</title>
+      <link>/proj/sachima/</link>
+      <pubDate>Tue, 20 Aug 2019 15:27:15 +0800</pubDate>
+      
+      <guid>/proj/sachima/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taocp</title>
+      <link>/books/taocp/</link>
+      <pubDate>Tue, 20 Aug 2019 15:24:11 +0800</pubDate>
+      
+      <guid>/books/taocp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Useless</title>
+      <link>/art/useless/</link>
+      <pubDate>Tue, 20 Aug 2019 15:23:54 +0800</pubDate>
+      
+      <guid>/art/useless/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Go语言radix tree实现、应用及源码分析</title>

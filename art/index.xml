@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arts on nocmk2</title>
+    <link>/art/</link>
+    <description>Recent content in Arts on nocmk2</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>nocmk2.github.io</copyright>
+    <lastBuildDate>Tue, 20 Aug 2019 15:23:54 +0800</lastBuildDate>
+    
+	<atom:link href="/art/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Useless</title>
+      <link>/art/useless/</link>
+      <pubDate>Tue, 20 Aug 2019 15:23:54 +0800</pubDate>
+      
+      <guid>/art/useless/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
